@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="11721_열 개씩 끊어 출력하기.cpp">
+    <ClCompile Include="11719_그대로 출력하기 2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
