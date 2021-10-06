@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9935_문자열 폭발.cpp">
+    <ClCompile Include="16916_부분 문자열_시간 초과.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
